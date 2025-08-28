@@ -27,12 +27,13 @@ Organizar, versionar y compartir el avance de la materia **Programación I**, fa
 
 ## ✒️ Autor
 **h4che404**  
-[Perfil de GitHub](https://github.com/h4che404) Juan Cruz Elias
+[Juan Cruz Elias](https://github.com/h4che404)
 
 ---
 
-## 👥 Participantes
-- **h4che404** → [GitHub](https://github.com/h4che404)  
+## 👥 Participantes 
 - **[Nombre 1]** → [GitHub](https://github.com/usuario1)  
 - **[Nombre 2]** → [GitHub](https://github.com/usuario2)  
-- **[Nombre 3]** → [GitHub](https://github.com/usuario3)  
+- **[Nombre 3]** → [GitHub](https://github.com/usuario3)
+- **[Nombre 4]** → [GitHub](https://github.com/usuario3)
+- **[Nombre 5]** → [GitHub](https://github.com/usuario3)
