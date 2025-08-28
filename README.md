@@ -9,7 +9,7 @@ Incluye ejercicios, proyectos y apuntes desarrollados durante el cursado.
 - Ejercicios de clase
 - Trabajos prácticos
 - Material de estudio
-- Proyectos finales
+- Proyectos finales 
 
 ---
 
@@ -32,7 +32,7 @@ Organizar, versionar y compartir el avance de la materia **Programación I**, fa
 ---
 
 ## 👥 Participantes 
-- **[Nombre 1]** → [GitHub](https://github.com/usuario1)  
+- **[Nahuel Lautaro Lemus]** → [GitHub](https://github.com/hero21lb)  
 - **[Nombre 2]** → [GitHub](https://github.com/usuario2)  
 - **[Nombre 3]** → [GitHub](https://github.com/usuario3)
 - **[Nombre 4]** → [GitHub](https://github.com/usuario3)
