@@ -14,9 +14,9 @@ Incluye ejercicios, proyectos y apuntes desarrollados durante el cursado.
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- Lenguaje principal: **[aclarar: Java / C / Kotlin / etc.]**
+- Lenguaje principal: **Python**
 - Herramientas de control de versiones: **Git & GitHub**
-- Entorno de desarrollo: **[Visual Studio Code / IntelliJ / etc.]**
+- Entorno de desarrollo: **Visual Studio Code**
 
 ---
 
@@ -25,4 +25,14 @@ Organizar, versionar y compartir el avance de la materia **Programación I**, fa
 
 ---
 
-## 📂 Estructura del repositorio
+## ✒️ Autor
+**h4che404**  
+[Perfil de GitHub](https://github.com/h4che404) Juan Cruz Elias
+
+---
+
+## 👥 Participantes
+- **h4che404** → [GitHub](https://github.com/h4che404)  
+- **[Nombre 1]** → [GitHub](https://github.com/usuario1)  
+- **[Nombre 2]** → [GitHub](https://github.com/usuario2)  
+- **[Nombre 3]** → [GitHub](https://github.com/usuario3)  
